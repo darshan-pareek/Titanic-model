@@ -41,10 +41,10 @@ F1 Score
 Confusion Matrix
 
 5.Results 
-Accuracy: 0.82
-Precision: 0.78
-Recall: 0.74
-F1 Score: 0.76
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
 
 6.Output Files
 
